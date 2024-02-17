@@ -1,0 +1,8 @@
+C:\Users\hp\source\repos\odev3_referansTipler\odev3_referansTipler\bin\Debug\odev3_referansTipler.exe.config
+C:\Users\hp\source\repos\odev3_referansTipler\odev3_referansTipler\bin\Debug\odev3_referansTipler.exe
+C:\Users\hp\source\repos\odev3_referansTipler\odev3_referansTipler\bin\Debug\odev3_referansTipler.pdb
+C:\Users\hp\source\repos\odev3_referansTipler\odev3_referansTipler\obj\Debug\odev3_referansTipler.csproj.AssemblyReference.cache
+C:\Users\hp\source\repos\odev3_referansTipler\odev3_referansTipler\obj\Debug\odev3_referansTipler.csproj.SuggestedBindingRedirects.cache
+C:\Users\hp\source\repos\odev3_referansTipler\odev3_referansTipler\obj\Debug\odev3_referansTipler.csproj.CoreCompileInputs.cache
+C:\Users\hp\source\repos\odev3_referansTipler\odev3_referansTipler\obj\Debug\odev3_referansTipler.exe
+C:\Users\hp\source\repos\odev3_referansTipler\odev3_referansTipler\obj\Debug\odev3_referansTipler.pdb

@@ -1,0 +1,8 @@
+C:\Users\hp\source\repos\odev3_constructor\odev3_constructor\bin\Debug\odev3_constructor.exe.config
+C:\Users\hp\source\repos\odev3_constructor\odev3_constructor\bin\Debug\odev3_constructor.exe
+C:\Users\hp\source\repos\odev3_constructor\odev3_constructor\bin\Debug\odev3_constructor.pdb
+C:\Users\hp\source\repos\odev3_constructor\odev3_constructor\obj\Debug\odev3_constructor.csproj.AssemblyReference.cache
+C:\Users\hp\source\repos\odev3_constructor\odev3_constructor\obj\Debug\odev3_constructor.csproj.SuggestedBindingRedirects.cache
+C:\Users\hp\source\repos\odev3_constructor\odev3_constructor\obj\Debug\odev3_constructor.csproj.CoreCompileInputs.cache
+C:\Users\hp\source\repos\odev3_constructor\odev3_constructor\obj\Debug\odev3_constructor.exe
+C:\Users\hp\source\repos\odev3_constructor\odev3_constructor\obj\Debug\odev3_constructor.pdb

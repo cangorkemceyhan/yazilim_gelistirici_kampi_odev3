@@ -1,0 +1,8 @@
+C:\Users\hp\source\repos\odev3_interface\odev3_interface\bin\Debug\odev3_interface.exe.config
+C:\Users\hp\source\repos\odev3_interface\odev3_interface\bin\Debug\odev3_interface.exe
+C:\Users\hp\source\repos\odev3_interface\odev3_interface\bin\Debug\odev3_interface.pdb
+C:\Users\hp\source\repos\odev3_interface\odev3_interface\obj\Debug\odev3_interface.csproj.AssemblyReference.cache
+C:\Users\hp\source\repos\odev3_interface\odev3_interface\obj\Debug\odev3_interface.csproj.SuggestedBindingRedirects.cache
+C:\Users\hp\source\repos\odev3_interface\odev3_interface\obj\Debug\odev3_interface.csproj.CoreCompileInputs.cache
+C:\Users\hp\source\repos\odev3_interface\odev3_interface\obj\Debug\odev3_interface.exe
+C:\Users\hp\source\repos\odev3_interface\odev3_interface\obj\Debug\odev3_interface.pdb

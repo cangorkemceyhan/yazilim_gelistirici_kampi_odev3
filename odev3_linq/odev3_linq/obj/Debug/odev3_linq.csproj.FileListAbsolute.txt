@@ -1,0 +1,8 @@
+C:\Users\hp\source\repos\odev3_linq\odev3_linq\bin\Debug\odev3_linq.exe.config
+C:\Users\hp\source\repos\odev3_linq\odev3_linq\bin\Debug\odev3_linq.exe
+C:\Users\hp\source\repos\odev3_linq\odev3_linq\bin\Debug\odev3_linq.pdb
+C:\Users\hp\source\repos\odev3_linq\odev3_linq\obj\Debug\odev3_linq.csproj.AssemblyReference.cache
+C:\Users\hp\source\repos\odev3_linq\odev3_linq\obj\Debug\odev3_linq.csproj.SuggestedBindingRedirects.cache
+C:\Users\hp\source\repos\odev3_linq\odev3_linq\obj\Debug\odev3_linq.csproj.CoreCompileInputs.cache
+C:\Users\hp\source\repos\odev3_linq\odev3_linq\obj\Debug\odev3_linq.exe
+C:\Users\hp\source\repos\odev3_linq\odev3_linq\obj\Debug\odev3_linq.pdb

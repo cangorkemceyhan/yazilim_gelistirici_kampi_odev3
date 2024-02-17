@@ -1,0 +1,8 @@
+C:\Users\hp\source\repos\odev3_generic\odev3_generic\bin\Debug\odev3_generic.exe.config
+C:\Users\hp\source\repos\odev3_generic\odev3_generic\bin\Debug\odev3_generic.exe
+C:\Users\hp\source\repos\odev3_generic\odev3_generic\bin\Debug\odev3_generic.pdb
+C:\Users\hp\source\repos\odev3_generic\odev3_generic\obj\Debug\odev3_generic.csproj.AssemblyReference.cache
+C:\Users\hp\source\repos\odev3_generic\odev3_generic\obj\Debug\odev3_generic.csproj.SuggestedBindingRedirects.cache
+C:\Users\hp\source\repos\odev3_generic\odev3_generic\obj\Debug\odev3_generic.csproj.CoreCompileInputs.cache
+C:\Users\hp\source\repos\odev3_generic\odev3_generic\obj\Debug\odev3_generic.exe
+C:\Users\hp\source\repos\odev3_generic\odev3_generic\obj\Debug\odev3_generic.pdb
